@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Duluti Blessed Orphanage"
+	textColor="rgba(255,255,255,0)"
+	showThumbsButton="true"
+
+>
+  <image imageURL="images/Ball.jpg"
+	thumbURL="thumbs/Ball.jpg"
+	linkURL="images/Ball.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Desktop\Duluti Blessed Orphanage\img\Ball.JPG">
+    <title><![CDATA[Ball]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Black and White.jpg"
+	thumbURL="thumbs/Black and White.jpg"
+	linkURL="images/Black and White.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Desktop\Duluti Blessed Orphanage\img\Black and White.JPG">
+    <title><![CDATA[Black and White]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Close Up.jpg"
+	thumbURL="thumbs/Close Up.jpg"
+	linkURL="images/Close Up.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Desktop\Duluti Blessed Orphanage\img\Close Up.JPG">
+    <title><![CDATA[Close Up]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Eat.jpg"
+	thumbURL="thumbs/Eat.jpg"
+	linkURL="images/Eat.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Desktop\Duluti Blessed Orphanage\img\Eat.JPG">
+    <title><![CDATA[Eat]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Heart.jpg"
+	thumbURL="thumbs/Heart.jpg"
+	linkURL="images/Heart.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Desktop\Duluti Blessed Orphanage\img\Heart.JPG">
+    <title><![CDATA[Heart]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Peace.jpg"
+	thumbURL="thumbs/Peace.jpg"
+	linkURL="images/Peace.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Desktop\Duluti Blessed Orphanage\img\Peace.JPG">
+    <title><![CDATA[Peace]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Piggyback.jpg"
+	thumbURL="thumbs/Piggyback.jpg"
+	linkURL="images/Piggyback.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Desktop\Duluti Blessed Orphanage\img\Piggyback.JPG">
+    <title><![CDATA[Piggyback]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Samling.jpg"
+	thumbURL="thumbs/Samling.jpg"
+	linkURL="images/Samling.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Desktop\Duluti Blessed Orphanage\img\Samling.JPG">
+    <title><![CDATA[Samling]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sirkel.jpg"
+	thumbURL="thumbs/sirkel.jpg"
+	linkURL="images/sirkel.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Desktop\Duluti Blessed Orphanage\img\sirkel.jpg">
+    <title><![CDATA[sirkel]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Study Hard.jpg"
+	thumbURL="thumbs/Study Hard.jpg"
+	linkURL="images/Study Hard.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Desktop\Duluti Blessed Orphanage\img\Study Hard.JPG">
+    <title><![CDATA[Study Hard]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Swing.jpg"
+	thumbURL="thumbs/Swing.jpg"
+	linkURL="images/Swing.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Desktop\Duluti Blessed Orphanage\img\Swing.JPG">
+    <title><![CDATA[Swing]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13931721_10154307028231788_615435052_o.jpg"
+	thumbURL="thumbs/13931721_10154307028231788_615435052_o.jpg"
+	linkURL="images/13931721_10154307028231788_615435052_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13931721_10154307028231788_615435052_o.jpg">
+    <title><![CDATA[13931721_10154307028231788_615435052_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13950490_10154307028146788_1463110332_o.jpg"
+	thumbURL="thumbs/13950490_10154307028146788_1463110332_o.jpg"
+	linkURL="images/13950490_10154307028146788_1463110332_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13950490_10154307028146788_1463110332_o.jpg">
+    <title><![CDATA[13950490_10154307028146788_1463110332_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13901984_10154307028076788_1047711863_o.jpg"
+	thumbURL="thumbs/13901984_10154307028076788_1047711863_o.jpg"
+	linkURL="images/13901984_10154307028076788_1047711863_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13901984_10154307028076788_1047711863_o.jpg">
+    <title><![CDATA[13901984_10154307028076788_1047711863_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13931545_10154307028046788_1391311105_o.jpg"
+	thumbURL="thumbs/13931545_10154307028046788_1391311105_o.jpg"
+	linkURL="images/13931545_10154307028046788_1391311105_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13931545_10154307028046788_1391311105_o.jpg">
+    <title><![CDATA[13931545_10154307028046788_1391311105_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13898296_10154307027921788_950265733_o.jpg"
+	thumbURL="thumbs/13898296_10154307027921788_950265733_o.jpg"
+	linkURL="images/13898296_10154307027921788_950265733_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13898296_10154307027921788_950265733_o.jpg">
+    <title><![CDATA[13898296_10154307027921788_950265733_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13902102_10154307027831788_262452297_o.jpg"
+	thumbURL="thumbs/13902102_10154307027831788_262452297_o.jpg"
+	linkURL="images/13902102_10154307027831788_262452297_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13902102_10154307027831788_262452297_o.jpg">
+    <title><![CDATA[13902102_10154307027831788_262452297_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13931460_10154307027756788_912049397_o.jpg"
+	thumbURL="thumbs/13931460_10154307027756788_912049397_o.jpg"
+	linkURL="images/13931460_10154307027756788_912049397_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13931460_10154307027756788_912049397_o.jpg">
+    <title><![CDATA[13931460_10154307027756788_912049397_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13918843_10154307027736788_1615027333_o.jpg"
+	thumbURL="thumbs/13918843_10154307027736788_1615027333_o.jpg"
+	linkURL="images/13918843_10154307027736788_1615027333_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13918843_10154307027736788_1615027333_o.jpg">
+    <title><![CDATA[13918843_10154307027736788_1615027333_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13932193_10154307027691788_395505522_o.jpg"
+	thumbURL="thumbs/13932193_10154307027691788_395505522_o.jpg"
+	linkURL="images/13932193_10154307027691788_395505522_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13932193_10154307027691788_395505522_o.jpg">
+    <title><![CDATA[13932193_10154307027691788_395505522_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13940194_10154307027611788_454346252_o.jpg"
+	thumbURL="thumbs/13940194_10154307027611788_454346252_o.jpg"
+	linkURL="images/13940194_10154307027611788_454346252_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13940194_10154307027611788_454346252_o.jpg">
+    <title><![CDATA[13940194_10154307027611788_454346252_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13931480_10154307027996788_919041927_o.jpg"
+	thumbURL="thumbs/13931480_10154307027996788_919041927_o.jpg"
+	linkURL="images/13931480_10154307027996788_919041927_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13931480_10154307027996788_919041927_o.jpg">
+    <title><![CDATA[13931480_10154307027996788_919041927_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13950783_10154307028281788_1147985216_o.jpg"
+	thumbURL="thumbs/13950783_10154307028281788_1147985216_o.jpg"
+	linkURL="images/13950783_10154307028281788_1147985216_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13950783_10154307028281788_1147985216_o.jpg">
+    <title><![CDATA[13950783_10154307028281788_1147985216_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13898183_10154307027951788_1126173849_o.jpg"
+	thumbURL="thumbs/13898183_10154307027951788_1126173849_o.jpg"
+	linkURL="images/13898183_10154307027951788_1126173849_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13898183_10154307027951788_1126173849_o.jpg">
+    <title><![CDATA[13898183_10154307027951788_1126173849_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13931585_10154307027901788_844608612_o.jpg"
+	thumbURL="thumbs/13931585_10154307027901788_844608612_o.jpg"
+	linkURL="images/13931585_10154307027901788_844608612_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13931585_10154307027901788_844608612_o.jpg">
+    <title><![CDATA[13931585_10154307027901788_844608612_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13939930_10154307027881788_299604324_o.jpg"
+	thumbURL="thumbs/13939930_10154307027881788_299604324_o.jpg"
+	linkURL="images/13939930_10154307027881788_299604324_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13939930_10154307027881788_299604324_o.jpg">
+    <title><![CDATA[13939930_10154307027881788_299604324_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13901893_10154307027781788_313066279_o.jpg"
+	thumbURL="thumbs/13901893_10154307027781788_313066279_o.jpg"
+	linkURL="images/13901893_10154307027781788_313066279_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13901893_10154307027781788_313066279_o.jpg">
+    <title><![CDATA[13901893_10154307027781788_313066279_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13918545_10154307027581788_758309628_o.jpg"
+	thumbURL="thumbs/13918545_10154307027581788_758309628_o.jpg"
+	linkURL="images/13918545_10154307027581788_758309628_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13918545_10154307027581788_758309628_o.jpg">
+    <title><![CDATA[13918545_10154307027581788_758309628_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13918906_10154307027526788_750609067_o.jpg"
+	thumbURL="thumbs/13918906_10154307027526788_750609067_o.jpg"
+	linkURL="images/13918906_10154307027526788_750609067_o.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\audun\Downloads\13918906_10154307027526788_750609067_o.jpg">
+    <title><![CDATA[13918906_10154307027526788_750609067_o]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
