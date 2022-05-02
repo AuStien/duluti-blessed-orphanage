@@ -1,0 +1,11 @@
+.header-container {
+  padding-top: 2em;
+  padding-bottom: 1em;
+  text-align: center;
+  background-color: #be8a58;
+}
+
+.header-title {
+  font-size: 3em;
+  margin: 0;
+}
