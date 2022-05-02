@@ -1,0 +1,17 @@
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+.navbar-item {
+  font-size: 2em;
+  padding: 0 1em 0 1em;
+  border-radius: 2em;
+}
+
+.navbar-item:hover {
+  cursor: pointer;
+  background-color: rgba(89,90,49,.4);
+}
