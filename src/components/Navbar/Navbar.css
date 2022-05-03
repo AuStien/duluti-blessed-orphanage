@@ -1,13 +1,12 @@
 .navbar-container {
   display: flex;
   justify-content: center;
-  padding-top: 2em;
-  padding-bottom: 1em;
+  padding-top: 1em;
 }
 
 .navbar-item {
   font-size: 2em;
-  padding: 0 1em 0 1em;
+  padding: 0 0.5em 0 0.5em;
   border-radius: 2em;
 }
 
