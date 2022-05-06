@@ -27,7 +27,7 @@
 					
 				</div>
 
-				<form id="myform" name="myform" METHOD="POST" ACTION="index.php">
+				<form id="myform" name="myform" METHOD="GET" ACTION="index.php">
                     <b> <?php echo $_POST['Lite_Currency_AlphaCode']?> </b>
 					<div id="TranSuccess" name="TranSuccess" style="display:none" >
 						<p style="font-family:arial;color:#631414;text-align:left; ">We can't thank you enough for your recent donation. Your transaction was processed successfully. 
