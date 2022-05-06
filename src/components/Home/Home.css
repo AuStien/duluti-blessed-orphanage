@@ -1,6 +1,4 @@
 .home-container {
-  width: 65%;
-  margin: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
