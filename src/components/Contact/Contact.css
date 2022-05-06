@@ -1,0 +1,40 @@
+.contact-container {
+  font-size: 1.4em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  column-gap: 2em;
+  row-gap: 2em;
+}
+
+.contact-box {
+  /* line-height: 0.7em; */
+  box-shadow: 2px 2px 12px -2px black;
+  padding: 5px;
+  padding-left: 1em;
+  margin-right: 10px;
+  border-radius: 8px;
+  background-color: bisque;
+}
+
+.contact-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 0.1em;
+}
+
+.contact-description {
+  margin-top: 0.1em;
+  font-size: 0.9em;
+  padding-bottom: 0.3em;
+  border-radius: 2px;
+  border-bottom: 1px solid black;
+}
+
+.contact-email {
+  margin-bottom: 0.7em;
+}
+
+.contact-phone {
+  margin-top: 0;
+}
