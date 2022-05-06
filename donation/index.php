@@ -422,7 +422,7 @@
                 <h1>Duluti Blessed Orphanage Donation</h1>
 
             </div>
-            <form id="myform" name="myform" METHOD="POST" ACTION="https://backoffice.host.iveri.com/Lite/Transactions/New/EasyAuthorise.aspx">
+            <form id="myform" name="myform" METHOD="POST" ACTION="https://merchantadmin.host.iveri.com/Lite/Transactions/New/EasyAuthorise.aspx">
                 <!-- Mandatory form variables  -->
                 <input id="Lite_Merchant_Applicationid" name="Lite_Merchant_Applicationid" type="hidden" value="{DCC36A97-AD8D-4316-BF76-241E1A4116AA}" readonly="true">
                 <input id="Lite_Order_Amount" name="Lite_Order_Amount" type="hidden" value="0" readonly="true">
