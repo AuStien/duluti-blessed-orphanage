@@ -426,10 +426,10 @@
                 <!-- Mandatory form variables  -->
                 <input id="Lite_Merchant_Applicationid" name="Lite_Merchant_Applicationid" type="hidden" value="{DCC36A97-AD8D-4316-BF76-241E1A4116AA}" readonly="true">
                 <input id="Lite_Order_Amount" name="Lite_Order_Amount" type="hidden" value="0" readonly="true">
-                <input type="hidden" name="Lite_Website_Successful_url" value="http://duluti.c1.biz/donation/result.php" /> <!-- NEED TO BE CHANGED -->
-                <input type="hidden" name="Lite_Website_Fail_url" value="http://duluti.c1.biz/donation/result.php" /> <!-- NEED TO BE CHANGED -->
-                <input type="hidden" name="Lite_Website_TryLater_url" value="http://duluti.c1.biz/donation/result.php" /> <!-- NEED TO BE CHANGED -->
-                <input type="hidden" name="Lite_Website_Error_url" value="http://duluti.c1.biz/donation/result.php" /> <!-- NEED TO BE CHANGED -->
+                <input type="hidden" name="Lite_Website_Successful_url" value="http://dulutiorphanage.org/donation/result.php" /> <!-- NEED TO BE CHANGED -->
+                <input type="hidden" name="Lite_Website_Fail_url" value="http://dulutiorphanage.org/donation/result.php" /> <!-- NEED TO BE CHANGED -->
+                <input type="hidden" name="Lite_Website_TryLater_url" value="http://dulutiorphanage.org/donation/result.php" /> <!-- NEED TO BE CHANGED -->
+                <input type="hidden" name="Lite_Website_Error_url" value="http://dulutiorphanage.org/donation/result.php" /> <!-- NEED TO BE CHANGED -->
                 <input id="Lite_Order_LineItems_Product_1" name="Lite_Order_LineItems_Product_1" type="hidden" value="Donation" readonly="true">
                 <input id="Lite_Order_LineItems_Quantity_1" name="Lite_Order_LineItems_Quantity_1" type="hidden" value="1" readonly="true">
                 <input id="Lite_Order_LineItems_Amount_1" name="Lite_Order_LineItems_Amount_1" type="hidden" value="0" readonly="true">
