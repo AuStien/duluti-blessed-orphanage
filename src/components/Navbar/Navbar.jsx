@@ -6,6 +6,6 @@ export default function Navbar() {
     <span className="navbar-item" onClick={() => window.location = "/"}>Home</span>
     <span className="navbar-item" onClick={() => window.location = "/gallery"}>Gallery</span>
     <span className="navbar-item" onClick={() => window.location = "/contact"}>Contact</span>
-    <span className="navbar-item">Donate</span>
+    <span className="navbar-item" onClick={() => window.location = "/donate"}>Donate</span>
   </div>)
 }
