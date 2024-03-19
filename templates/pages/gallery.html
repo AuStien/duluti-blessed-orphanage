@@ -1,0 +1,24 @@
+{{define "content"}}
+  <div class="pswp-gallery flex flex-row flex-wrap justify-center" id="gallery">
+    {{range .}}
+    <a class="w-72 h-72 hover:border-2 border-amber-700" href="/img/gallery/{{.Filename}}"
+      data-pswp-width="{{.Width}}" 
+      data-pswp-height="{{.Height}}" 
+      data-cropped="true"
+      target="_blank">
+      <img class="w-72 h-72 object-cover overflow-hidden" src="/img/gallery/thumbnail/thumb.{{.Filename}}" alt="" />
+    {{end}}
+  </div>
+
+  <script type="module">
+  import PhotoSwipeLightbox from '/js/photoswipe/photoswipe-lightbox.esm.min.js';
+  const lightbox = new PhotoSwipeLightbox({
+    gallery: '#gallery',
+    children: 'a',
+    pswpModule: () => import('/js/photoswipe/photoswipe.esm.min.js')
+  });
+  lightbox.init();
+  </script>
+  <link rel="stylesheet" href="/js/photoswipe/photoswipe.css">
+{{end}}
+

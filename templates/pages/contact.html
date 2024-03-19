@@ -1,0 +1,22 @@
+{{define "content"}}
+<div>
+  <div class="grid grid-cols-2">
+    {{range . }}
+    <section class="m-10 p-3 text-white bg-amber-900 shadow-lg shadow-amber-800 rounded">
+      <p class="font-bold">{{ .Name }}</p>
+      <p class="text-sm mb-3">{{ .Description }}</p>
+      <p>E-mail: <a class="{{template "clickable-bright-class"}}" href="mailto:{{ .Email}}">{{ .Email }}</a></p>
+      <p>Phone: <a class="{{template "clickable-bright-class"}}" href="tel:{{ .PhoneRef }}">{{ .PhoneDisplay }}</a></p>
+    </section>
+    {{end}}
+  </div>
+ 
+  <section class="w-full text-center mb-10">
+    <p>Eva and Christina volunteered through IVHQ, for more information <a class="{{template "clickable-class"}}" href="https://www.volunteerhq.org/volunteer-in-tanzania">click here</a>.</p>
+  </section>
+ 
+  <section>
+   <p>Website hosted and maintained by Audun Stien, for any technical/design inqueries or suggestions feel free to contact me at <a class="{{template "clickable-class"}}" href="mailto:audun97@gmail.com">audun97@gmail.com</a>.</p>
+ </section>
+</div>
+{{end}}

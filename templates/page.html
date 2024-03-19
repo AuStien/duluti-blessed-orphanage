@@ -1,0 +1,42 @@
+{{define "NavElementClass"}}p-3 text-xl hover:bg-amber-500 hover:text-black rounded-md border-amber-600 hover:shadow-md shadow-amber-500{{end}}
+
+{{define "page"}}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    
+    <title>Duluti Blessed Orphanage</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon.png">
+
+
+    <script src="/js/tailwindcss-3.4.1.js"></script>
+
+    <style>
+      body {
+        font-family: Helvetica;
+      }
+    </style>
+  </head>
+
+<!-- w-auto h-60 p-7 mb-5 mx-auto bg-cover 2xl:bg-contain bg-no-repeat bg-clip-border 2xl:bg-fixed shadow-xl -->
+<body class="bg-amber-500 text-amber-950">
+  <header class="text-white pb-5 mb-5 bg-amber-900 shadow-md">
+    <div class="w-auto h-60 p-7 mb-5 max-2xl:bg-center mx-auto bg-cover 2xl:bg-contain bg-no-repeat 2xl:bg-fixed shadow-xl"
+      style="background-image: url(/img/header.jpg);"></div>
+    <p class="text-6xl text-center py-3">DULUTI BLESSED ORPHANAGE</p>
+    <nav class="flex gap-10 justify-center items-center" >
+      <a class="{{template "NavElementClass"}}" href="index.html">Home</a>
+      <a class="{{template "NavElementClass"}}" href="gallery.html">Gallery</a>
+      <a class="{{template "NavElementClass"}}" href="contact.html">Contact</a>
+      <a class="{{template "NavElementClass"}}" href="donate.html">Donate</a>
+    </nav>
+  </header>
+
+  <div class="lg:mx-64 md:mx-20 mx-6 mb-5">
+    {{template "content" .}}
+  </div>
+</body>
+</html>
+{{end}}
